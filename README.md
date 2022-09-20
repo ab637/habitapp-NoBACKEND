@@ -1,4 +1,7 @@
-# habitapp
+# Habit-Tracker App
+
+This is the UI/Ux for a basic habit tracker application created using flutter. 
+
 
 A new Flutter project.
 
